@@ -8,6 +8,9 @@
 # Tâches Réalisées
 - inversé un tableau
 - Trouver la médiane dans un tableau
+## Seance du 25 septembre 2025
+ * Taches realiser
+   - inserer un element dans une liste doublement chainee trie
 
   
 
