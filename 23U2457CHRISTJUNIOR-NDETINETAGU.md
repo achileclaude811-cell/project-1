@@ -7,3 +7,6 @@
 ## Séance du 18/09/2025
 - Tâches réalisées : 
  - programme c pour regarder si un programme et trie
+## Seance du 25 septembre 2025
+ * Taches realiser
+   - insertion en tete et en queue  dans une liste simplement  chainee circulaire
