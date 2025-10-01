@@ -7,3 +7,9 @@
   * Taches realiser
     -multiplication a*b
     -produit de matrices
+## Seance du 25 septembre 2025
+ * Taches realiser
+- lire un element et supprimer toutes les occurrences dans une liste chaine simplement chainee
+
+
+   
