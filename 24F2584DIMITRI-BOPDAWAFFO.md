@@ -7,4 +7,6 @@
   ## Seance du 18/09/2025
   - tâche réaliseée 
       - programme C de produit entre une matrice et un vecteur
-  
+  ## Seance du 25 septembre 2025
+ * Taches realiser
+   - inserer un element dans une liste simplement chainee trie
