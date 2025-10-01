@@ -9,3 +9,6 @@
       Tâches réalisées
       - Sommes Matrices
       - Recherche séquentiellr
+   ## Seance du 25 septembre 2025
+ * Taches realiser
+   - insertion en tete et queue dans une liste doublement chainee circulaire
