@@ -5,7 +5,7 @@
 - Prénom et Nom : Ange Label Nde Made
 
 ## Sceance du 18/09/2025
-# Tâches Réalisées
+* Tâches Réalisées
 - inversé un tableau
 - Trouver la médiane dans un tableau
 ## Seance du 25 septembre 2025
